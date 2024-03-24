@@ -21,7 +21,6 @@ The Automatic Hand Gesture Control Project aims to provide a seamless and intuit
 1. **Installation**: Install the necessary dependencies, including OpenCV and MediaPipe, using `pip`.
 2. **Configuration**: Configure the project settings and predefined hand gestures according to the desired application.
 3. **Run**: Launch the application and start performing hand gestures in front of the camera to control volume and screen brightness
-4. 
 
 ## Dependencies 📦
 - OpenCV
