@@ -15,7 +15,7 @@ The Automatic Hand Gesture Control Project aims to provide a seamless and intuit
 3. **Action Mapping**: Maps recognized gestures to specific actions or commands, enabling hands-free control of devices or applications.
 4. **Volume Control**: One module is for master volume control.
 5. **Brightness Control**: Another module is for master volume control.
-6. **Combined Control**: The last module is supposed to combine both using voice control in order to let the user decide what type of gesture control they wish to use. (STILL UNDER DEVELPOMENT)
+6. **Combined Control (Coming Soon)**: The last module is supposed to combine both using voice control in order to let the user decide what type of gesture control they wish to use. (STILL UNDER DEVELPOMENT)
 
 ## Usage 🧑‍💻
 1. **Installation**: Install the necessary dependencies, including OpenCV and MediaPipe, using `pip`.
